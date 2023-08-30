@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "vqoaUUUt9IvO/ZfV26qw2ikuAAndWBMiHymztwi/ffA=",
+  "Source": "PortfolioI",
+  "BasePath": "_content/PortfolioI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PortfolioI/wwwroot",
+      "Source": "PortfolioI",
+      "ContentRoot": "/Users/vivianaballeza/Documents/coding_dojo/C#/PortfolioII/wwwroot/",
+      "BasePath": "_content/PortfolioI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/vivianaballeza/Documents/coding_dojo/C#/PortfolioII/wwwroot/css/bootstrap.min.css",
+      "SourceId": "PortfolioI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/vivianaballeza/Documents/coding_dojo/C#/PortfolioII/wwwroot/",
+      "BasePath": "_content/PortfolioI",
+      "RelativePath": "css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap.min.css"
+    }
+  ]
+}
